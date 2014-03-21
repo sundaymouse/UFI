@@ -1,14 +1,16 @@
 UFI
 ===
 
-ubuntu_ffmpeg_install.sh: Efficient ffmpeg encoding production environment distribution.
+ubuntu_ffmpeg_install.sh: Efficient ffmpeg encoding production environment distribution.<br>
 
-Usage:
-chmod +x ubuntu_ffmpeg_install.sh
-./ubuntu_ffmpeg_install.sh
+Usage:<br>
+wget https://raw.githubusercontent.com/sundaymouse/UFI/master/ffmpeg_ubuntu_install.sh<br>
+chmod +x ubuntu_ffmpeg_install.sh<br>
+./ubuntu_ffmpeg_install.sh<br>
 
-Problem?
-Open an issue in issue tracker, or contact me@sundaymouse.com.
+Problem?<br>
+Open an issue in issue tracker, or contact me@sundaymouse.com.<br>
 
-License:
-The MIT License
+License:<br>
+The MIT License<br>
+
