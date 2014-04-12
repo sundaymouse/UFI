@@ -5,7 +5,7 @@ ubuntu_ffmpeg_install.sh: Efficient ffmpeg encoding production environment distr
 
 Usage:<br>
 wget https://raw.githubusercontent.com/sundaymouse/UFI/master/ffmpeg_ubuntu_install.sh<br>
-chmod +x ffmpeg_ubuntu_install.sh.sh<br>
+chmod +x ffmpeg_ubuntu_install.sh<br>
 ./ffmpeg_ubuntu_install.sh<br>
 
 Problem?<br>
